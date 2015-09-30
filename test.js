@@ -1,0 +1,3 @@
+function test(argument) {
+  console.log('This is rather neat');// body...
+};
